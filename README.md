@@ -1,4 +1,4 @@
-# textify
+# Textify
 
 A new Flutter project.
 
