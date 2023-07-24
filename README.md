@@ -1,5 +1,5 @@
 <h1>Textify</h1>
-<p>Textify is a mobile application that allows the user to click/browse an image and fetch the text written on it. This application is developed using Google's open source UI software development kit called Flutter and its backend code written in Python programming language is hosted on https://www.pythonanywhere.com</p>
+<p>Textify is a mobile application that allows the user to click/browse an image and fetch the text written on it. This application is developed using Google's open source UI software development kit called Flutter and its backend code written in Python programming language is hosted on https://www.pythonanywhere.com.</p>
 <div style= "float: left;width: 50%;padding: 100px;">
   <img src="https://github.com/MohitKambli/Textify/blob/main/assets/screenshots/pythonanywhere.png" width=400, height=250>
   <img src="https://github.com/MohitKambli/Textify/blob/main/assets/screenshots/flutter_ss.jpeg" width=420, height=250>
