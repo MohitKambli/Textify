@@ -8,13 +8,11 @@
 <p>Install VSCode(Visual Studio Code): https://code.visualstudio.com/download</p>
 <p>Install Flutter: https://flutter.dev/docs/get-started/install</p>
 <p>Install Fonts: https://fonts.google.com/</p>
-<h2>APIs referenced for COVID-19 cases</h2>
-<p>For Countries: https://covid19.mathdro.id/api</p>
-<p>For Indian States: https://api.covid19india.org/data.json</p>
 <h2>Dependencies</h2>
 <ul>
   <li>cupertino_icons</li>
   <li>http</li>
+  <li>image_picker</li>
   <li>hexcolor</li>
 </ul>
 <h2>Dev Dependencies</h2>
