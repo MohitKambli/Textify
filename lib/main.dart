@@ -119,12 +119,21 @@ class _MyHomePageState extends State<MyHomePage> {
       home: Scaffold(
         backgroundColor: Colors.black,
         body: Container(
-        decoration: const BoxDecoration(
-          image: DecorationImage(
-            image: AssetImage("./assets/images/app_background_15.jpg"), 
-            fit: BoxFit.cover
-          )
-        ),
+          width: MediaQuery.of(context).size.width,
+          height: MediaQuery.of(context).size.height,
+          decoration: new BoxDecoration(
+            image: new DecorationImage(
+              image: new AssetImage('./assets/images/app_background_15.jpg'),
+              fit: BoxFit.cover,
+            ),
+          ),
+        // decoration: const BoxDecoration(
+        //     image: AssetImage(""),
+        //     height: MediaQuery.of(context).size.height,
+        //     width: MediaQuery.of(context).size.width, 
+        //     fit: BoxFit.cover
+        //   )
+        // ),
         child: SingleChildScrollView(
           child: Container(
             padding: const EdgeInsets.fromLTRB(10, 30, 10, 10),
