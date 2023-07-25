@@ -22,7 +22,7 @@
 <h2>APK Download Link</h2>
 <p>https://github.com/MohitKambli/Textify/blob/main/assets/apk/app-release.apk</p>
 <h2>App Screenshots</h2>
-<div style= "float: left;width: 33.33%;padding: 100px;">
+<div style= "float: left;width: 20%;padding: 100px;">
   <img src="https://github.com/MohitKambli/Textify/tree/main/assets/screenshots/S1.jpg" width=275 height=500>
   <img src="https://github.com/MohitKambli/Textify/tree/main/assets/screenshots/S2.jpg" width=275 height=500>
   <img src="https://github.com/MohitKambli/Textify/tree/main/assets/screenshots/S3.jpg" width=275 height=500>
