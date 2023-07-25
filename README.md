@@ -23,9 +23,9 @@
 <p>https://github.com/MohitKambli/Textify/blob/main/assets/apk/app-release.apk</p>
 <h2>App Screenshots</h2>
 <div style= "float: left;width: 20%;padding: 100px;">
-  <img src="https://github.com/MohitKambli/Textify/blob/main/assets/screenshots/S1.jpg" width=275 height=450>
-  <img src="https://github.com/MohitKambli/Textify/blob/main/assets/screenshots/S2.jpg" width=275 height=450>
-  <img src="https://github.com/MohitKambli/Textify/blob/main/assets/screenshots/S3.jpg" width=275 height=450>
-  <img src="https://github.com/MohitKambli/Textify/blob/main/assets/screenshots/S4.jpg" width=275 height=450>
-  <img src="https://github.com/MohitKambli/Textify/blob/main/assets/screenshots/S5.jpg" width=275 height=450>
+  <img src="https://github.com/MohitKambli/Textify/blob/main/assets/screenshots/S1.jpg" width=250 height=450>
+  <img src="https://github.com/MohitKambli/Textify/blob/main/assets/screenshots/S2.jpg" width=250 height=450>
+  <img src="https://github.com/MohitKambli/Textify/blob/main/assets/screenshots/S3.jpg" width=250 height=450>
+  <img src="https://github.com/MohitKambli/Textify/blob/main/assets/screenshots/S4.jpg" width=250 height=450>
+  <img src="https://github.com/MohitKambli/Textify/blob/main/assets/screenshots/S5.jpg" width=250 height=450>
 </div>
